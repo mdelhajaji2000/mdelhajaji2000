@@ -1,7 +1,7 @@
 <h1 align="center"><img alt = "coding"  src = "https://gifdb.com/images/high/programming-coding-kira-lena-urzendowsky-yl7f6xjkodtr9eul.gif"></h1>
 <h1 align="center">Hi 👋, I'm Mohamed El Hajaji</h1>
 <h3 align="center">A Full stack Devalopper</h3>
-<img align="right" alt = "cooding" width = 350 height = 500 src = "https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif">
+
 - 🌱 I’m currently learning **Fundamontal using C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdelhajaji2000/C-projects](https://github.com/mdelhajaji2000/C-projects)
