@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed El Hajaji</h1>
-<h3 align="center">A Full stack Devalopper</h3>
+<h3 align="center">A Full stack Desktop Devalopper</h3>
 <h1 align="center"><img alt = "coding"  src = "https://gifdb.com/images/high/programming-coding-kira-lena-urzendowsky-yl7f6xjkodtr9eul.gif" ></h1>
 
 - 🌱 I’m currently learning **Fundamontal using C++**
