@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Fundamontal using C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mdelhajaji2000/C-projects](https://github.com/mdelhajaji2000/C-projects)
+- 👨‍💻 All of my projects are available at <a href = "https://github.com/mdelhajaji2000/ProjectsCpp">MyPROJECTS</a>
 
 - 💬 Ask me about **C++**
 
