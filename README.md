@@ -2,7 +2,7 @@
 <h3 align="center">A Full stack Desktop Devalopper</h3>
 <h1 align="center"><img alt = "coding"  src = "https://gifdb.com/images/high/programming-coding-kira-lena-urzendowsky-yl7f6xjkodtr9eul.gif" ></h1>
 
-- 🌱 I’m currently learning **Fundamontal using C++**
+- 🌱 I’m currently learning **Desktop Devallopemment using C# and .Net FrameWorck**
 
 - 👨‍💻 All of my projects are available at <a href = "https://github.com/mdelhajaji2000/ProjectsCpp">MyPROJECTS</a>
 
