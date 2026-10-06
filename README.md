@@ -1,93 +1,163 @@
 <h1 align="center">Hi 👋, I'm Mohamed El Hajaji</h1>
 
-
-<h1 align="center">
+<p align="center">
   <img alt="coding" src="https://gifdb.com/images/high/programming-coding-kira-lena-urzendowsky-yl7f6xjkodtr9eul.gif">
-</h1>
+</p>
 
-🎓 Computer Science student (ENSA)  
-💻 Backend Developer (.NET)  
-⚙️ C / C++ enthusiast — low-level & internals  
-📐 Strong interest in Mathematics (Analysis & Algebra)  
+<p align="center">
+  <strong>Computer Science Student • Systems & Low-Level Programming • C/C++ • Algorithms • Mathematics</strong>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a computer science student with a strong passion for **how things work under the hood**.
+I'm a **Computer Science student at ENSA Tangier** interested in understanding computing from the ground up.
 
-I enjoy:
-- Implementing things **from scratch** (containers, memory, utilities)
-- Understanding **ABIs, memory layout, allocators, iterators**
-- Bridging **theory (math, algorithms)** with **real-world systems**
-- Writing **clean, explicit, and well-reasoned code**
+My main interest lies in the boundary between **theoretical computer science and systems programming** — understanding not only how to use abstractions, but how those abstractions are implemented internally.
 
-I don't just use libraries — I like to **rebuild them to understand them**.
+I enjoy going beneath the surface:
+
+- 🔧 Implementing data structures and utilities from scratch
+- ⚙️ Understanding memory management, object representation, and system behavior
+- 🧩 Studying algorithms and their mathematical foundations
+- 🧠 Exploring compilers, operating systems, runtimes, and low-level software
+- 📐 Building stronger foundations in mathematics for computer science research
+
+> I don't just want to know **how to use a system** — I want to understand **how the system works**.
 
 ---
 
 ## 🔧 Technical Skills
 
 ### Languages
-- **C** — memory management, low-level programming
-- **C++** — templates, STL internals, iterators, RAII
-- **C# / .NET** — backend development
-- **SQL** — relational databases
 
-### Core CS Topics
+- **C** — pointers, dynamic memory, data structures, manual resource management
+- **C++** — templates, RAII, STL concepts, iterators, object lifetime
+- **C# / .NET** — application and backend development
+- **SQL** — relational databases and data modeling
+
+### Computer Science
+
 - Data Structures & Algorithms
-- Memory Management (stack / heap / allocators)
-- Object Models & ABI concepts
 - Complexity Analysis
-- Computer Architecture (basics)
+- Memory Management
+- Object Models & ABI Concepts
+- Generic Programming
+- Computer Architecture
+- Systems Programming
+- Software Architecture
 
 ### Mathematics
-- Linear Algebra
+
 - Mathematical Analysis
+- Linear Algebra
 - Discrete Mathematics
+- Mathematical reasoning for algorithms and computer science
 
 ---
 
-## 🛠️ Current Focus
+## 🚧 Current Projects & Focus
 
-- 🚧 Reimplementing STL containers (educational purpose)
-- 📚 Deepening understanding of C++ object model & ABI
-- ⚙️ Low-level C programming (malloc/free, memory behavior)
-- 🧮 Strengthening math foundations for research
-- 🌐 Backend development with .NET
+### 🧱 C Data Structures Library
+
+A from-scratch implementation of fundamental data structures in **C**, designed to understand their internals rather than simply using existing libraries.
+
+Currently exploring:
+
+- Dynamic arrays
+- Singly & doubly linked lists
+- Stacks & queues
+- Trees
+- Hash tables
+- Generic APIs in C
+- Error handling and API design
+
+The long-term direction is to build a **custom memory allocator** and integrate it with the library.
+
+### ⚙️ C++ STL Reimplementation
+
+Reimplementing STL-like containers to understand:
+
+- Memory ownership
+- Iterators
+- Templates
+- Copy/move semantics
+- Object lifetime
+- Capacity management
+- Allocator-aware design
+
+### 🧠 Systems & Low-Level CS
+
+Currently deepening my understanding of:
+
+- Memory layout
+- Stack vs heap
+- Allocators
+- ABI and object representation
+- Compilers
+- Operating systems
+- Computer architecture
+- Runtime systems
+
+---
+
+## 📚 What I'm Studying
+
+My current studies combine **engineering, mathematics, and computer science fundamentals**.
+
+I'm particularly interested in:
+
+- Algorithms & Data Structures
+- Analysis & Linear Algebra
+- Computer Architecture
+- Systems Programming
+- Programming Language Concepts
+- Memory Management
+- Compilers
+- Operating Systems
+
+I believe strong engineers should understand both the **mathematical foundations** and the **machine-level reality** behind the software they build.
 
 ---
 
 ## 🧭 Learning Philosophy
 
-> *“If I can reimplement it, I truly understand it.”*
+> **"If I can reimplement it, I can understand it."**
+
+I prefer learning by going from:
+
+**Theory → Implementation → Experiments → Optimization → Deeper theory**
 
 I value:
-- Explicit reasoning
-- Step-by-step problem solving
-- Correctness over shortcuts
+
 - Fundamentals over trends
+- Understanding over memorization
+- Correctness over shortcuts
+- Explicit reasoning over abstraction without understanding
+- Building things from scratch
+- Reading and questioning how existing systems work
 
 ---
 
-## 📈 Long-Term Goals
+## 🎯 Long-Term Direction
 
-- Become a **strong systems-level engineer**
-- Contribute to **low-level / performance-critical software**
-- Pursue a **PhD in Computer Science**
-- Work at the intersection of **theory and real systems**
+My long-term goal is to become a **systems-oriented computer scientist and engineer**, working on problems where software meets the underlying machine.
+
+I'm particularly interested in:
+
+**Systems Programming • Compilers • Operating Systems • Runtime Systems • Memory Management • Algorithms • Programming Languages**
+
+Eventually, I would like to pursue **research in Computer Science**, with the goal of continuing toward a **PhD**.
 
 ---
 
 ## 📫 Contact
 
-- GitHub: `@mdelhajaji2000`
-- LinkedIn: *(optional)*
+- GitHub: [@mdelhajaji2000](https://github.com/mdelhajaji2000)
 
 ---
 
-⭐ If you enjoy low-level programming, C++, or CS fundamentals — feel free to connect.
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdelhajaji2000&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdelhajaji2000&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
